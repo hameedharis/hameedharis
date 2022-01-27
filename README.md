@@ -2,7 +2,7 @@
 - 👀 I’m interested in solving complex problems in a simple way
 - 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on fresh apps
-- 📫 email :
+- 📫 email : haris.hameed@airlifttech.com
 
 <!---
 hameedharis/hameedharis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
